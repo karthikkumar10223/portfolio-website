@@ -1,2 +1,2 @@
 # portfolio-website
-Personal portfolio website showcasing my profile, skills, projects, education, and contact details.
+A modern personal portfolio website highlighting my data analytics skills, projects, tools, education, and contact information.
